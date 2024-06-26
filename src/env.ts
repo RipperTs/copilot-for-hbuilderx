@@ -8,4 +8,4 @@ export const HTML_PATH = path.join(__dirname, '../www/index.html')
 export const CSS_PATH = path.join(__dirname, '../www/github.css')
 export const CSS_DARK_PATH = path.join(__dirname, '../www/github-dark.css')
 export const HOMEPAGE =
-  'https://github.com/zhetengbiji/copilot-for-hbuilderx#readme'
+  'https://github.com/RipperTs/copilot-for-hbuilderx#readme'

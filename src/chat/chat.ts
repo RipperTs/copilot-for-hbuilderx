@@ -196,7 +196,7 @@ export async function chat(input?: string) {
   console.log('vscodeSessionid:', vscodeSessionid)
   const machineid = getMachineid()
   console.log('machineid:', machineid)
-  const url = 'https://api.githubcopilot.com/chat/completions'
+  const url = 'https://api.copilot.noteo.cn/chat/completions'
   const headers = Object.assign(
     {
       authorization,
